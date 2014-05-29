@@ -2,7 +2,6 @@ FED01_0846138_RiskGame
 ======================
 
 ## De opdracht:
-
 **Eisen aan de opdracht:**
 - De opdracht moet tof zijn om te bouwen.	
 - De opdracht geeft de student genoeg diepgang.	
