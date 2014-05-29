@@ -66,6 +66,7 @@ Dus gebieden waar een of twee troepen staan kunnen enkel versterkt worden.
 
 Het is mogelijk om troepen te verplaatsen. Er zijn wel twee soorten verplaatsingen: veroveringen en versterkingen.
 Troepen kunnen alleen aan aangrenzende gebieden lopen.
+Je verplaats altijd het maximale aantal troepen.
 
 ##### Versterkingen
 Om je eigen gebieden te versterken verplaatst moet de speler het gebied aanklikken waaruit de troepen komen.
@@ -76,7 +77,18 @@ Er blijft altijd een enkele eenheid achter waaruit de versterking is vertrokken.
 ##### Veroveringen
 Hierbij valt de speler een andere speler of een gebied aan zonder speler.
 Als speler klik je eerst je eigen gebied aan dan het gebied waar de andere speler staat.
+Dan is het mogelijk om de troepen te verplaatsen.
+Als aanvaller is het mogelijk om maximaal met twee troepen aan te vallen en minimaal met een.
+Het aantal troepen dat de aanval niet overleeft is gelijk aan de troepen die de verdediger heeft staan.
 
+Mogelijke scenario's:
+| Gebied aanvaller	| Aanval	| Gebied verdediger   | Winnaar (overlevende troepen)  |
+| :--------------------:|:-------------:| :------------------:|:------------------------------:	|
+| 1     		| 0		| 1  	      	      |	Geen aanval mogelijk		|
+| 2     		| 1     	| 1	              | Niets (0)			|
+| 3 			| 2      	| 3                   | Verdediger (1)			|
+| 3 			| 2      	| 2                   | Aanvaller (1)			|
+| 2 			| 1      	| 3                   | Verdediger (2)			|
 
-### Afbeeldingen
+### Afbeelding(en)
 ![RiskGame gameplay](https://raw.githubusercontent.com/SEALdvd/FED01_0846138_RiskGame/master/Overige_bestanden/res/voorbeeldGame.png "RiskGame gameplay")
