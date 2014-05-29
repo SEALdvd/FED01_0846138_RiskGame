@@ -17,7 +17,14 @@ RiskGame is een spel waarin twee spelers turn-based tegen elkaar opnemen om zove
 De kaart is vierkant, net zoals alle gebieden die zich op de kaart bevinden. 
 
 #### De kaart
+De kaart van RiskGame is vierkant en bestaat uit allemaal kleine gebieden.
+De gebieden zijn zichtbaar door de kleine vierkantjes.
+Als speler is het de bedoeling dat je alle gebieden gaat beheersen en dat je deze gebieden onder controle gaat houden.
 
+Een voorbeeld van de kaart:
+![kaart Riskgame](https://github.com/SEALdvd/FED01_0846138_RiskGame/blob/master/Overige%20bestanden/res/kaart.png "Kaart RiskGame")
 
 #### Gebieden
 Er zijn verschillende gebieden die je als speler kan veroveren.
+
+#### TRoepen
