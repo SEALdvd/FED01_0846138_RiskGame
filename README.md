@@ -48,7 +48,15 @@ Het is ook mogelijk dat een speler door een bepaald aantal munten te bereiken he
 Elke speler krijgt vijftien munten in het begin waarbij de speler troepen kan kopen.
 
 #### Schatten
+Een kasteel levert schatten op.
+Als een schat wordt opengemaakt dan krijgt de speler direct een bonus.
+Een schat wordt random gekozen.
 
+Bonussen:
+- geen bonus (65% kans)
+- 5 munten erbij (20% kans)
+- 10 munten erbij (10% kans)
+- 20 munten erbij (5% kans)
 
 #### Troepen en troepen verplaatsen
 Elke speler krijgt drie troepen in het begin, wat gelijk staat aan het maximaal aan troepen in een gebied.
