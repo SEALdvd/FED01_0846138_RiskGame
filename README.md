@@ -1,4 +1,6 @@
 FED01_0846138_RiskGame
 ======================
 
-Door: Danny van Dalen, studentnummer: 0846138, klas: MT2C
+Door: Danny van Dalen 
+Studentnummer: 0846138 
+Klas: MT2C
