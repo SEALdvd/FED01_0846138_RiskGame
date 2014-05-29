@@ -81,7 +81,9 @@ Dan is het mogelijk om de troepen te verplaatsen.
 Als aanvaller is het mogelijk om maximaal met twee troepen aan te vallen en minimaal met een.
 Het aantal troepen dat de aanval niet overleeft is gelijk aan de troepen die de verdediger heeft staan.
 
-| Gebied aanvaller | troepen aanval | Gebied verdediger | Winnaar     | Overlevende |
+Mogelijke scenario's:
+
+| Gebied aanvaller | Troepen aanval | Gebied verdediger | Winnaar     | Overlevende |
 |------------------|----------------|-------------------|-------------|-------------|
 | 1                | 0              | 1                 | geen aanval | -           |
 | 2                | 1              | 1                 | niemand     | 0           |
