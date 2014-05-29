@@ -83,7 +83,7 @@ Het aantal troepen dat de aanval niet overleeft is gelijk aan de troepen die de 
 
 Mogelijke scenario's:
 | Gebied aanvaller	| Aanval	| Gebied verdediger   | Winnaar (overlevende troepen)  |
-| :--------------------:|:-------------:| :------------------:|:------------------------------:	|
+| :--------------------|:-------------:| :------------------:|------------------------------:	|
 | 1     		| 0		| 1  	      	      |	Geen aanval mogelijk		|
 | 2     		| 1     	| 1	              | Niets (0)			|
 | 3 			| 2      	| 3                   | Verdediger (1)			|
