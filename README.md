@@ -31,14 +31,15 @@ Er zijn verschillende gebieden die je als speler kan veroveren.
 
 De gebieden:
 - normaal gebied: +1 munt
-- kasteel gebied: +3 munten
+- kasteel gebied: +3 munten + 1 schat
 
 Een gebied kan maximaal drie troepen hebben van een enkele speler.
 Onderstaand staat er een voorbeeld van een afbeelding van de gebieden (links: normaal en rechts: kasteel):
 
 ![gebieden RiskGame](https://raw.githubusercontent.com/SEALdvd/FED01_0846138_RiskGame/master/Overige_bestanden/res/gebieden.png "Gebieden RiskGame")
 
-Elke gebied 
+Elk gebied wordt staat onder controle door een van de spelers of door 'niets'.
+De gebieden krijgen als rand (border) de kleur van de speler of een normale zwarte rand als het door niets wordt beheerd.
 
 #### Munten
 Een speler krijgt door gebieden te beheersen elke beurt munten erbij.
@@ -46,19 +47,23 @@ Elk gebied levert een aantal munten op waarmee de speler later extra troepen kan
 Het is ook mogelijk dat een speler door een bepaald aantal munten te bereiken het spel te winnen.
 Elke speler krijgt vijftien munten in het begin waarbij de speler troepen kan kopen.
 
+#### Schatten
+
+
 #### Troepen en troepen verplaatsen
 Elke speler krijgt drie troepen in het begin, wat gelijk staat aan het maximaal aan troepen in een gebied.
 Om troepen te kopen moet de speler het gebied selecteren waarin de speler de extra troepen wilt hebben.
-De troepen kosten vijf munten per stuk. 
+De troepen kosten vijf munten per stuk en het maximaal aantal troepen wat in een gebied kan staan blijft het maximum.
+Dus gebieden waar een of twee troepen staan kunnen enkel versterkt worden.
 
 Het is mogelijk om troepen te verplaatsen. Er zijn wel twee soorten verplaatsingen: veroveringen en versterkingen.
 
 ##### Versterkingen
-
+Om je eigen gebieden te versterken verplaatst moet de speler het gebied aanklikken
 
 ##### Veroveringen
-Hierbij valt de speler een andere speler of een gebied zonder speler aan.
-Als speler klik je eerst je eigen gebied aan dan het gebied waar nog 
+Hierbij valt de speler een andere speler of een gebied aan zonder speler.
+Als speler klik je eerst je eigen gebied aan dan het gebied waar de andere speler staat.
 
-
+### Afbeeldingen
 
