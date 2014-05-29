@@ -24,7 +24,7 @@ Als speler is het de bedoeling dat je alle gebieden gaat beheersen en dat je dez
 
 Dit is een voorbeeld van de kaart:
 
-![kaart Riskgame](https://raw.githubusercontent.com/SEALdvd/FED01_0846138_RiskGame/master/Overige_bestanden/res/kaart.png "Kaart RiskGame")
+![kaart RiskGame](https://raw.githubusercontent.com/SEALdvd/FED01_0846138_RiskGame/master/Overige_bestanden/res/kaart.png "Kaart RiskGame")
 
 #### Gebieden
 Er zijn verschillende gebieden die je als speler kan veroveren.
@@ -34,6 +34,10 @@ De gebieden:
 - kasteel gebied: +3 munten
 
 Een gebied kan maximaal drie troepen hebben van een enkele speler.
+
+Dit is een voorbeeld van de gebieden (links: normaal en rechts: kasteel):
+
+![gebieden RiskGame](https://raw.githubusercontent.com/SEALdvd/FED01_0846138_RiskGame/master/Overige_bestanden/res/gebieden.png "Gebieden RiskGame")
 
 #### Munten
 Een speler krijgt door gebieden te beheersen elke beurt munten erbij.
