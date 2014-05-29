@@ -65,13 +65,18 @@ De troepen kosten vijf munten per stuk en het maximaal aantal troepen wat in een
 Dus gebieden waar een of twee troepen staan kunnen enkel versterkt worden.
 
 Het is mogelijk om troepen te verplaatsen. Er zijn wel twee soorten verplaatsingen: veroveringen en versterkingen.
+Troepen kunnen alleen aan aangrenzende gebieden lopen.
 
 ##### Versterkingen
-Om je eigen gebieden te versterken verplaatst moet de speler het gebied aanklikken
+Om je eigen gebieden te versterken verplaatst moet de speler het gebied aanklikken waaruit de troepen komen.
+Daarna klikt de speler de plaats aan waar de troepen moeten staan. 
+Je kan alleen troepen verplaatsen als er in het aangrenzende gebied minder dan drie troepen staan en het gebied waar de versterking vertrekt minimaal twee troepen staan.
+Er blijft altijd een enkele eenheid achter waaruit de versterking is vertrokken.
 
 ##### Veroveringen
 Hierbij valt de speler een andere speler of een gebied aan zonder speler.
 Als speler klik je eerst je eigen gebied aan dan het gebied waar de andere speler staat.
 
-### Afbeeldingen
 
+### Afbeeldingen
+![RiskGame gameplay](https://raw.githubusercontent.com/SEALdvd/FED01_0846138_RiskGame/master/Overige_bestanden/res/voorbeeldGame.png "RiskGame gameplay")
