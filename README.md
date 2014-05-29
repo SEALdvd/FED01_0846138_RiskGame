@@ -81,14 +81,12 @@ Dan is het mogelijk om de troepen te verplaatsen.
 Als aanvaller is het mogelijk om maximaal met twee troepen aan te vallen en minimaal met een.
 Het aantal troepen dat de aanval niet overleeft is gelijk aan de troepen die de verdediger heeft staan.
 
-Mogelijke scenario's:
-| Gebied aanvaller	| Aanval	| Gebied verdediger   | Winnaar (overlevende troepen)  |
-| :--------------------|:-------------:| :------------------:|------------------------------:	|
-| 1     		| 0		| 1  	      	      |	Geen aanval mogelijk		|
-| 2     		| 1     	| 1	              | Niets (0)			|
-| 3 			| 2      	| 3                   | Verdediger (1)			|
-| 3 			| 2      	| 2                   | Aanvaller (1)			|
-| 2 			| 1      	| 3                   | Verdediger (2)			|
+| Gebied aanvaller | troepen aanval | Gebied verdediger | Winnaar     | Overlevende |
+|------------------|----------------|-------------------|-------------|-------------|
+| 1                | 0              | 1                 | geen aanval | -           |
+| 2                | 1              | 1                 | niemand     | 0           |
+| 3                | 2              | 1                 | aanvaller   | 1           |
+| 2                | 1              | 3                 | verdediger  | 2           |
 
 ### Afbeelding(en)
 ![RiskGame gameplay](https://raw.githubusercontent.com/SEALdvd/FED01_0846138_RiskGame/master/Overige_bestanden/res/voorbeeldGame.png "RiskGame gameplay")
