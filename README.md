@@ -34,18 +34,31 @@ De gebieden:
 - kasteel gebied: +3 munten
 
 Een gebied kan maximaal drie troepen hebben van een enkele speler.
-
-Dit is een voorbeeld van de gebieden (links: normaal en rechts: kasteel):
+Onderstaand staat er een voorbeeld van een afbeelding van de gebieden (links: normaal en rechts: kasteel):
 
 ![gebieden RiskGame](https://raw.githubusercontent.com/SEALdvd/FED01_0846138_RiskGame/master/Overige_bestanden/res/gebieden.png "Gebieden RiskGame")
+
+Elke gebied 
 
 #### Munten
 Een speler krijgt door gebieden te beheersen elke beurt munten erbij.
 Elk gebied levert een aantal munten op waarmee de speler later extra troepen kan bijbouwen.
+Het is ook mogelijk dat een speler door een bepaald aantal munten te bereiken het spel te winnen.
+Elke speler krijgt vijftien munten in het begin waarbij de speler troepen kan kopen.
 
-#### Troepen
-Elke speler krijgt troepen, 
+#### Troepen en troepen verplaatsen
+Elke speler krijgt drie troepen in het begin, wat gelijk staat aan het maximaal aan troepen in een gebied.
+Om troepen te kopen moet de speler het gebied selecteren waarin de speler de extra troepen wilt hebben.
+De troepen kosten vijf munten per stuk. 
 
-#### Gebieden veroveren
+Het is mogelijk om troepen te verplaatsen. Er zijn wel twee soorten verplaatsingen: veroveringen en versterkingen.
+
+##### Versterkingen
+
+
+##### Veroveringen
+Hierbij valt de speler een andere speler of een gebied zonder speler aan.
+Als speler klik je eerst je eigen gebied aan dan het gebied waar nog 
+
 
 
