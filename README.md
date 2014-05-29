@@ -1,7 +1,7 @@
-FED01_0846138_RiskGame
+RiskGame introductie
 ======================
 
-## De opdracht:
+### De opdracht
 **Eisen aan de opdracht:**
 - De opdracht moet tof zijn om te bouwen.	
 - De opdracht geeft de student genoeg diepgang.	
@@ -9,12 +9,12 @@ FED01_0846138_RiskGame
 - Bij de opdracht is het logisch om een MV* patern toe te passen.	
 - Er zijn meerdere events nodig voor een goede werking van het programma.
 
-## Mijn opdracht: RiskGame
+### Mijn opdracht: RiskGame
 
 Ik maak een spel (genaamd: RiskGame). 
 Het is dat het spel minimaal twee spelers kan hebben en dat er 
 
 
-### Gebieden
+#### Gebieden
 
 Er zijn verschillende gebieden die je als speler kan veroveren.
