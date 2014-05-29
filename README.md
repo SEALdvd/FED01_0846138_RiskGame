@@ -1,7 +1,7 @@
 RiskGame introductie
 ======================
 
-## De opdracht
+### De opdracht
 **Eisen aan de opdracht:**
 - De opdracht moet tof zijn om te bouwen.	
 - De opdracht geeft de student genoeg diepgang.	
@@ -10,12 +10,14 @@ RiskGame introductie
 - Er zijn meerdere events nodig voor een goede werking van het programma.
 
 ======================
-## Mijn opdracht: RiskGame
 
+### Mijn opdracht: RiskGame
 Ik maak een spel (genaamd: RiskGame). 
-Het is dat het spel minimaal twee spelers kan hebben en dat er 
+RiskGame is een spel waarin twee spelers turn-based tegen elkaar opnemen om zoveel mogelijk gebieden te pakken en daarover controle te houden.
+De kaart is vierkant, net zoals alle gebieden die zich op de kaart bevinden. 
+
+#### De kaart
 
 
 #### Gebieden
-
 Er zijn verschillende gebieden die je als speler kan veroveren.
